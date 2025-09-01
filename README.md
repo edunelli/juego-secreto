@@ -6,7 +6,7 @@
 
 <h2>1. Array </h2>
 
-- la vaiable para la array la llame `amigosAgregados`
+- La vaiable para la array la llame `amigosAgregados`
 
 <h2>2. Implementación de una función para agregar amigos</h2>
 
@@ -22,7 +22,7 @@
 
 <h2>6. Archivos HTML y CSS</h2>
 
-- Estos archivos fueron provistos para este proyecto, por lo tanto, solo se trabajó con el archivo `app.js`.
+- Solo me encargue del archivo `app.js`.
 
 <h2>7. Pruebas </h2>
 
